@@ -1,0 +1,41 @@
+a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: gray;
+  cursor: pointer;
+}
+
+body {
+  background-color: black;
+  color: white;
+  margin: 33px;
+}
+
+.blog {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.blog-title {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.center {
+  text-align: center;
+  font-size: large;
+}
+
+p {
+  text-align: justify;
+  font-size: small;
+  font-family: "Times New Roman", Times, serif;
+}
